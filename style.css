@@ -522,6 +522,11 @@ footer{
 
 .single-footer-2 p{
     margin: 15px;
+    transition: all 0.3s ease;
+}
+
+.single-footer-2 p:hover{
+    transform: translateX(5px);
 }
 
 .single-footer-2 a{
